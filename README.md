@@ -40,5 +40,4 @@ To deploy the application to a production environment, follow these general step
 ## Conclusion
 This documentation provides an overview of the project's structure, components, API endpoints,
  and deployment guidelines. It serves as a reference for developers and other stakeholders involved 
-in the project. Please note that this is a simplified documentation template, and you can expand it 
-with more detailed information as per your project requirements.
+in the project.
