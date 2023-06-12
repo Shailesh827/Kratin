@@ -1,0 +1,23 @@
+.dashboard {
+    display: flex;
+    list-style: none;
+    padding: 0;
+  }
+  
+  .dashboard li {
+    margin-right: 10px;
+  }
+  
+  .dashboard li:last-child {
+    margin-right: 0;
+  }
+  
+  .dashboard li a {
+    display: block;
+    background-color: #f2f2f2;
+    border-radius: 5px;
+    padding: 10px 20px;
+    text-decoration: none;
+    color: #333;
+  }
+  
