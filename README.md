@@ -42,3 +42,8 @@ This documentation provides an overview of the project's structure, components, 
  and deployment guidelines. It serves as a reference for developers and other stakeholders involved 
 in the project. Please note that this is a simplified documentation template, and you can expand it 
 with more detailed information as per your project requirements.
+![reminder](https://github.com/Shailesh827/Kratin/assets/123078324/b27eb191-3fa9-4d99-afe0-b96baf3b8a9c)
+![medicinelist](https://github.com/Shailesh827/Kratin/assets/123078324/cc8ad8d1-ef52-4c72-b6d1-8d0c020913e6)
+![loginm](https://github.com/Shailesh827/Kratin/assets/123078324/665bf40d-e1eb-49b9-958a-441ab9ffa7b4)
+![register](https://github.com/Shailesh827/Kratin/assets/123078324/7742380b-7bdb-432e-872f-9448fea4b01a)
+![home](https://github.com/Shailesh827/Kratin/assets/123078324/c4f6923b-756e-4ef1-b6b7-3eda09673c7a)
