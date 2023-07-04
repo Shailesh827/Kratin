@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Kratin/static/css/main.d20202a4.css",
+    "main.js": "/Kratin/static/js/main.9515b653.js",
+    "static/js/787.5352c3a1.chunk.js": "/Kratin/static/js/787.5352c3a1.chunk.js",
+    "index.html": "/Kratin/index.html",
+    "main.d20202a4.css.map": "/Kratin/static/css/main.d20202a4.css.map",
+    "main.9515b653.js.map": "/Kratin/static/js/main.9515b653.js.map",
+    "787.5352c3a1.chunk.js.map": "/Kratin/static/js/787.5352c3a1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d20202a4.css",
+    "static/js/main.9515b653.js"
+  ]
+}
